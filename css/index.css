@@ -1,0 +1,21 @@
+body {
+  background-color: #f5f5f5;
+}
+/*头部   开始*/
+#header {
+  height: 50px;
+  background-color: #ff841d;
+  padding: 10px;
+}
+#header .logo img {
+  height: 25px;
+}
+#header .app {
+  float: right;
+}
+#header .app img {
+  height: 34px;
+}
+/*头部   结束*/
+/*搜索  开始*/
+/*搜索  结束*/
